@@ -1,0 +1,16 @@
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+
+.left {
+	text-align: left;
+}
+
+.main {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}

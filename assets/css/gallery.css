@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+	padding: 0;
+	line-height: 1.6em;
+}
+
+a {
+	color: #000;
+	text-decoration: none;
+}
+
+#gallery {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+/*#gallery li {
+	display: block;
+	float: left;
+	width: 23%;
+	cursor: pointer;
+	border-radius: 5px;
+	box-sizing: border-box;
+	margin: 0 12px 7px 0;
+	position: relative;
+}
+
+#gallery img {
+	widows: 100%;
+	border-radius: 5px;
+}*/
