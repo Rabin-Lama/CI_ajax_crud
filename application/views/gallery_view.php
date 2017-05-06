@@ -38,6 +38,8 @@
 	  </div><!-- /.container-fluid -->
 	</nav>
 
+	<h2>Images of active contestants.</h2>
+
 	<div class="container main">
 		<ul id="gallery">
 			<?php
